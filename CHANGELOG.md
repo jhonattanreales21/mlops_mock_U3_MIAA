@@ -3,7 +3,6 @@
 Todos los cambios notables en este proyecto serán documentados en este archivo.
 
 El formato se basa en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
-y este proyecto se adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ## [1.0.0] - 2025-11-22
 **Versión Final de la Propuesta (AWS MLOps Enterprise Architecture)**
@@ -34,7 +33,7 @@ Comparativa entre la visión inicial conceptual y la solución final implementad
 **MVP Técnico (Prueba de Concepto)**
 
 Implementación técnica de un Producto Mínimo Viable (MVP) para validar flujos de CI/CD y consumo de modelos.
-*Repositorio de referencia:* [`ml-med-app-mlops-U2`][https://github.com/jhonattanreales21/ml-med-app-mlops-U2]
+*Repositorio de referencia:* [`ml-med-app-mlops-U2`](https://github.com/jhonattanreales21/ml-med-app-mlops-U2)
 
 ### Added
 - **Web App:** Desarrollo de interfaz de usuario utilizando **Streamlit** para interacción con el modelo.
